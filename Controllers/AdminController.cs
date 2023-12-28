@@ -29,6 +29,13 @@ namespace B201210597.Controllers
 
 
 
+
+
+
+
+
+
+
         public IActionResult Doktor()
         {
 			

@@ -1,0 +1,68 @@
+﻿@model B201210597.Models.DTO.Appointment
+
+@{
+    Layout = null;
+}
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>B201210597</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<link rel="stylesheet" href="~/WEB_PROJE.styles.css" asp-append-version="true" />
+
+</head>
+<header>
+	<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+		<div class="container-fluid text-center">
+			<h1 class="mx-auto" style="color: green;">[ADMİN SAYFA]</h1>
+		</div>
+		<a href="cikis" class="btn btn-primary" style="color: black;">ÇIKIŞ</a>
+
+	</nav>
+</header>
+<div>
+    <h4>Randev</h4>
+    <hr />
+<div class="container mt-3">
+	<div class="row justify-content-center">
+		<div class="col-md-6">
+<form method="post" asp-action="Delete">
+	<input asp-for="AppointmentId" hidden />
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2 class="text-primary">Delete </h2>
+			<hr />
+		</div>
+		@*<div asp-validation-summary="All"></div>*@
+		<div class="mb-3">
+			<label asp-for="AppointmentId"></label>
+							<input asp-for="AppointmentId" disabled class="form-control" />
+		</div>
+		<div class="mb-3">
+			<label asp-for="AppointmentDateTime"></label>
+							<input asp-for="AppointmentDateTime" disabled class="form-control" />
+		</div>
+						<div class="mb-3">
+							<label asp-for="DoctorId"></label>
+							<input asp-for="DoctorId" disabled class="form-control" />
+						</div>
+						<div class="mb-3">
+							<label asp-for="KullaniciId"></label>
+							<input asp-for="KullaniciId" disabled class="form-control" />
+						</div>
+		<button type="submit" class="btn btn-danger" style="width:150px">Delete</button>
+						<a asp-controller="Randevu" asp-action="Randevu" class="btn btn-secondary" style="width:150px">
+			Geri Don
+		</a>
+	</div>
+</form>
+		</div>
+	</div>
+</div>
+</div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>

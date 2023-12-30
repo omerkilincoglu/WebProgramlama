@@ -9,69 +9,281 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = B201210597
 build_property.RootNamespace = B201210597
-build_property.ProjectDir = C:\Users\monster\Desktop\B201210597\B201210597\B201210597\
+build_property.ProjectDir = C:\Users\monster\Desktop\B201210597\B201210597\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\monster\Desktop\B201210597\B201210597\B201210597
+build_property.MSBuildProjectDirectory = C:\Users\monster\Desktop\B201210597\B201210597
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/monster/Desktop/B201210597/B201210597/B201210597/Views/Admin/CreateDoctor.cshtml]
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Admin/CreateDoctor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlRG9jdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/monster/Desktop/B201210597/B201210597/B201210597/Views/Admin/DeleteDoktor.cshtml]
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Admin/DeleteDoktor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlRG9rdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/monster/Desktop/B201210597/B201210597/B201210597/Views/Admin/Display.cshtml]
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Admin/Display.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGlzcGxheS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/monster/Desktop/B201210597/B201210597/B201210597/Views/Admin/Doktor.cshtml]
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Admin/Doktor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRG9rdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/monster/Desktop/B201210597/B201210597/B201210597/Views/Admin/EditDoktor.cshtml]
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Admin/EditDoktor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdERva3Rvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/monster/Desktop/B201210597/B201210597/B201210597/Views/Dashboard/Display.cshtml]
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/CallDepartmenAPI/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbERlcGFydG1lbkFQSVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/CallDepartmenAPI/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbERlcGFydG1lbkFQSVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/CallDepartmenAPI/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbERlcGFydG1lbkFQSVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/CallDepartmenAPI/GetDepartman.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbERlcGFydG1lbkFQSVxHZXREZXBhcnRtYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/CallDepartmenAPI/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbERlcGFydG1lbkFQSVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Dashboard/Display.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERpc3BsYXkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/monster/Desktop/B201210597/B201210597/B201210597/Views/Home/Index.cshtml]
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/monster/Desktop/B201210597/B201210597/B201210597/Views/Home/Privacy.cshtml]
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/monster/Desktop/B201210597/B201210597/B201210597/Views/Shared/Error.cshtml]
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Klinik/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2xpbmlrXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Klinik/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2xpbmlrXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Klinik/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2xpbmlrXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Klinik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2xpbmlrXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Kullanici/CreateKullanici.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXENyZWF0ZUt1bGxhbmljaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Kullanici/DeleteKullanici.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXERlbGV0ZUt1bGxhbmljaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Kullanici/EditKullanici.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXEVkaXRLdWxsYW5pY2kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Kullanici/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Kullanici/Kullanici.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXEt1bGxhbmljaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Randevu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Randevu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Randevu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Randevu/Randevu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFuZGV2dVxSYW5kZXZ1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/monster/Desktop/B201210597/B201210597/B201210597/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/monster/Desktop/B201210597/B201210597/B201210597/Views/UserAuthentication/Login.cshtml]
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/UserAuthentication/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhlbnRpY2F0aW9uXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/monster/Desktop/B201210597/B201210597/B201210597/Views/UserAuthentication/Registration.cshtml]
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/UserAuthentication/Registration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhlbnRpY2F0aW9uXFJlZ2lzdHJhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/monster/Desktop/B201210597/B201210597/B201210597/Views/_ViewImports.cshtml]
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/monster/Desktop/B201210597/B201210597/B201210597/Views/_ViewStart.cshtml]
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/monster/Desktop/B201210597/B201210597/B201210597/Views/Shared/_Layout.cshtml]
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Admin/CreateDoctor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcQWRtaW5cQ3JlYXRlRG9jdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Admin/DeleteDoktor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcQWRtaW5cRGVsZXRlRG9rdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Admin/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcQWRtaW5cRGlzcGxheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Admin/Doktor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcQWRtaW5cRG9rdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Admin/EditDoktor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcQWRtaW5cRWRpdERva3Rvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/CallDepartmenAPI/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcQ2FsbERlcGFydG1lbkFQSVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/CallDepartmenAPI/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcQ2FsbERlcGFydG1lbkFQSVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/CallDepartmenAPI/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcQ2FsbERlcGFydG1lbkFQSVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/CallDepartmenAPI/GetDepartman.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcQ2FsbERlcGFydG1lbkFQSVxHZXREZXBhcnRtYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/CallDepartmenAPI/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcQ2FsbERlcGFydG1lbkFQSVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Dashboard/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcRGFzaGJvYXJkXERpc3BsYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Klinik/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcS2xpbmlrXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Klinik/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcS2xpbmlrXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Klinik/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcS2xpbmlrXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Klinik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcS2xpbmlrXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Kullanici/CreateKullanici.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcS3VsbGFuaWNpXENyZWF0ZUt1bGxhbmljaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Kullanici/DeleteKullanici.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcS3VsbGFuaWNpXERlbGV0ZUt1bGxhbmljaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Kullanici/EditKullanici.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcS3VsbGFuaWNpXEVkaXRLdWxsYW5pY2kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Kullanici/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcS3VsbGFuaWNpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Kullanici/Kullanici.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcS3VsbGFuaWNpXEt1bGxhbmljaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Randevu/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcUmFuZGV2dVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Randevu/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcUmFuZGV2dVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Randevu/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcUmFuZGV2dVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Randevu/Randevu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcUmFuZGV2dVxSYW5kZXZ1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/UserAuthentication/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcVXNlckF1dGhlbnRpY2F0aW9uXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/UserAuthentication/Registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcVXNlckF1dGhlbnRpY2F0aW9uXFJlZ2lzdHJhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/monster/Desktop/B201210597/B201210597/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-witogpigl1
+
+[C:/Users/monster/Desktop/B201210597/B201210597/weppp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2VwcHBcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ojfpfzr8n9

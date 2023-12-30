@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\monster\\Desktop\\B201210597\\B201210597\\B201210597\\B201210597.csproj": {}
+    "C:\\Users\\monster\\Desktop\\B201210597\\B201210597\\B201210597.csproj": {}
   },
   "projects": {
-    "C:\\Users\\monster\\Desktop\\B201210597\\B201210597\\B201210597\\B201210597.csproj": {
+    "C:\\Users\\monster\\Desktop\\B201210597\\B201210597\\B201210597.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\monster\\Desktop\\B201210597\\B201210597\\B201210597\\B201210597.csproj",
+        "projectUniqueName": "C:\\Users\\monster\\Desktop\\B201210597\\B201210597\\B201210597.csproj",
         "projectName": "B201210597",
-        "projectPath": "C:\\Users\\monster\\Desktop\\B201210597\\B201210597\\B201210597\\B201210597.csproj",
+        "projectPath": "C:\\Users\\monster\\Desktop\\B201210597\\B201210597\\B201210597.csproj",
         "packagesPath": "C:\\Users\\monster\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\monster\\Desktop\\B201210597\\B201210597\\B201210597\\obj\\",
+        "outputPath": "C:\\Users\\monster\\Desktop\\B201210597\\B201210597\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
